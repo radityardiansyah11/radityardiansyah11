@@ -1,14 +1,8 @@
-Hi 👋 My name is Raditya Ardiansyah
-===================================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Raditya Ardiansyah
+==========================================================================================================================================
 
 Junior Web Developer
 --------------------
-
-\---
-
-\---
-
-\---
 
 Let me introduce myself. My name is Raditya Ardiansyah. I am a 17-year-old student currently studying at SMKN 4 Malang, majoring in Software Engineering. My interest in technology began when I was introduced to computers and the internet at a young age. Since then, I have been passionate about understanding how technology works—especially how applications and websites can be built from lines of code.
 
