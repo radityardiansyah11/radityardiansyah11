@@ -1,14 +1,18 @@
-<h1 align="center">Hey What's Up? My name Raditya Ardiansyah</h1>
+<h1 align="center">Hey What's  Up? My name Raditya Ardiansyah</h1>
 
 ###
 
-<h3 align="center">Web Developer</h3>
+<h3 align="center">I'm Web Developer</h3>
 
 ###
 
 <div align="center">
   <img height="250" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"  />
 </div>
+
+###
+
+<h4 align="center">My name is Raditya, a Software Engineering student driven by curiosity about how code turns into digital solutions. Currently studying at SMKN 4 Malang, I spend my time exploring the worlds of Programming<br><br>For me, programming is more than just languages—it’s about patience and persistence. I’m not afraid to start from the bottom, and I take pride in every small project I build. I’m always open to learning new things and finding my place in the tech world.</h4>
 
 ###
 
@@ -52,5 +56,13 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/radityardiansyah11/radityardiansyah11/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/radityardiansyah11/radityardiansyah11/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/radityardiansyah11/radityardiansyah11/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
